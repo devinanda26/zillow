@@ -1,0 +1,2044 @@
+{
+  "price": "$139,500",
+  "address": "4320 Notting Hill Dr SW,\u00a0Atlanta, GA 30331",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "1,644 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Alfredo Dotson",
+    "agent_phone": "(404) 312-4374"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2005",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$155/month",
+    "Price/sqft": "$85"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.694488,
+    "longitude": -84.534561
+  }
+}
+{
+  "price": "$1,699,000",
+  "address": "290 Pinecrest Rd NE,\u00a0Atlanta, GA 30342",
+  "bedrooms": "5",
+  "bathrooms": "5",
+  "floor_area": "7,090 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Bill Ames",
+    "agent_phone": "(404) 376-5108"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2001",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "1.02 acres",
+    "Price/sqft": "$240"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.869236,
+    "longitude": -84.377554
+  }
+}
+{
+  "price": "$1,895,000",
+  "address": "3758 N Stratford Rd NE,\u00a0Atlanta, GA 30342",
+  "bedrooms": "5",
+  "bathrooms": "6",
+  "floor_area": "6,530 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Kilian Rief",
+    "agent_phone": "(404) 655-9022"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2014",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "0.8 acres",
+    "Price/sqft": "$290"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.857595,
+    "longitude": -84.368466
+  }
+}
+{
+  "price": "$230,000",
+  "address": "2304 Tiger Flowers Dr NW,\u00a0Atlanta, GA 30314",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,248 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Cymone Baylor",
+    "agent_phone": "(770) 680-1080"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1950",
+    "Heating": "None",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "9,583 sqft",
+    "Price/sqft": "$184"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.7607,
+    "longitude": -84.463031
+  }
+}
+{
+  "price": "$575,000",
+  "address": "1338 Hooper Ave NE,\u00a0Atlanta, GA 30307",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "floor_area": "1,540 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Rosanne Dorfman",
+    "agent_phone": "(404) 476-7434"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "8,712 sqft",
+    "Price/sqft": "$373"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.767943,
+    "longitude": -84.343661
+  }
+}
+{
+  "price": "$145,000",
+  "address": "350 Taft St SW,\u00a0Atlanta, GA 30315",
+  "bedrooms": "4",
+  "bathrooms": "4",
+  "floor_area": "1,100 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Gloria Marin",
+    "agent_phone": "(786) 768-1249"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1958",
+    "Heating": "Gas",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "7,426 sqft",
+    "Price/sqft": "$132"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.709894,
+    "longitude": -84.40037
+  }
+}
+{
+  "price": "$375,000",
+  "address": "27202 Plantation Dr NE,\u00a0Atlanta, GA 30324",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "2,132 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Maggie Brake",
+    "agent_phone": "(404) 798-3711"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1985",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$525/month",
+    "Price/sqft": "$176"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.835205,
+    "longitude": -84.355523
+  }
+}
+{
+  "price": "$975,000",
+  "address": "808 Amsterdam Ave NE,\u00a0Atlanta, GA 30306",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "3,176 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "CHASE MIZELL",
+    "agent_phone": "(770) 289-2780"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1994",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "10,001 sqft",
+    "Price/sqft": "$307"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.787949,
+    "longitude": -84.360732
+  }
+}
+{
+  "price": "$192,000",
+  "address": "119 Mcgill Park Ave NE,\u00a0Atlanta, GA 30312",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "971 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Nancy Billick",
+    "agent_phone": "(404) 600-0881"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1994",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$330/month",
+    "Price/sqft": "$198"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.761959,
+    "longitude": -84.377268
+  }
+}
+{
+  "price": "$143,000",
+  "address": "70 Sheridan Dr NE APT 12,\u00a0Atlanta, GA 30305",
+  "bedrooms": "1",
+  "bathrooms": "2",
+  "floor_area": "645 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Shannon Williams",
+    "agent_phone": "(404) 643-2013"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$300/month",
+    "Price/sqft": "$222"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.83257,
+    "longitude": -84.381691
+  }
+}
+{
+  "price": "$1,495,000",
+  "address": "1332 Lanier Blvd NE,\u00a0Atlanta, GA 30306",
+  "bedrooms": "5",
+  "bathrooms": "4",
+  "floor_area": "3,800 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jim Getzinger",
+    "agent_phone": "(404) 401-8141"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1926",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "8,842 sqft",
+    "Price/sqft": "$393"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.790772,
+    "longitude": -84.351208
+  }
+}
+{
+  "price": "$1,350,000",
+  "address": "900 Lenox Blvd,\u00a0Atlanta, GA 30324",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "3,012 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Kellie Bailey",
+    "agent_phone": "(770) 652-0163"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2018",
+    "Heating": "Gas",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$400/month",
+    "Lot": "1,176 sqft",
+    "Price/sqft": "$448"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.833612,
+    "longitude": -84.355151
+  }
+}
+{
+  "price": "$435,000",
+  "address": "660 Glen Iris Dr NE,\u00a0Atlanta, GA 30308",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "floor_area": "1,346 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Bru Krebs",
+    "agent_phone": "(404) 984-0243"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2001",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$467/month",
+    "Price/sqft": "$323"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.772193,
+    "longitude": -84.368899
+  }
+}
+{
+  "price": "$579,000",
+  "address": "228 Chastain Preserve Ln NE,\u00a0Atlanta, GA 30342",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "1,764 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "JULIE COWARD",
+    "agent_phone": "(770) 329-8718"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2015",
+    "Heating": "Heat pump",
+    "Cooling": "No Data",
+    "Parking": "4 spaces",
+    "HOA": "$330/month",
+    "Lot": "892 sqft",
+    "Price/sqft": "$328"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.864769,
+    "longitude": -84.379918
+  }
+}
+{
+  "price": "$199,955",
+  "address": "375 Mulberry Row SE #2603,\u00a0Atlanta, GA 30354",
+  "bedrooms": "2",
+  "bathrooms": "3",
+  "floor_area": "2,000 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sid Lightford",
+    "agent_phone": "(678) 644-3341"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2020",
+    "Heating": "No Data",
+    "Cooling": "No Data",
+    "Parking": "2 spaces",
+    "HOA": "$155/month",
+    "Lot": "0.33 acres",
+    "Price/sqft": "$100"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.666135,
+    "longitude": -84.384349
+  }
+}
+{
+  "price": "$150,000",
+  "address": "1017 Ashby Ter NW,\u00a0Atlanta, GA 30314",
+  "bedrooms": "4",
+  "bathrooms": "2",
+  "floor_area": "1,512 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Property Owner",
+    "agent_phone": "(678) 460-7709"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1930",
+    "Heating": "Other",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "Lot": "6,011 sqft",
+    "Price/sqft": "$99"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.762748,
+    "longitude": -84.419924
+  }
+}
+{
+  "price": "$269,000",
+  "address": "1223 Hardee St NE #32,\u00a0Atlanta, GA 30307",
+  "bedrooms": "1",
+  "bathrooms": "2",
+  "floor_area": "870 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Allen Snow",
+    "agent_phone": "(404) 931-1176"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2020",
+    "Heating": "Heat pump",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$150/month",
+    "Price/sqft": "$309"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.753883,
+    "longitude": -84.346697
+  }
+}
+{
+  "price": "$1,250,000",
+  "address": "1138 Zimmer Dr NE,\u00a0Atlanta, GA 30306",
+  "bedrooms": "5",
+  "bathrooms": "6",
+  "floor_area": "3,398 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Rodney Hinote",
+    "agent_phone": "(404) 786-9562"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1932",
+    "Heating": "Forced air, Heat pump",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "8,799 sqft",
+    "Price/sqft": "$368"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.793384,
+    "longitude": -84.349794
+  }
+}
+{
+  "price": "$569,900",
+  "address": "289 Lindbergh Dr NE,\u00a0Atlanta, GA 30305",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "1,804 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Tom Hicks",
+    "agent_phone": "(404) 307-4488"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1945",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "7,487 sqft",
+    "Price/sqft": "$316"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.822499,
+    "longitude": -84.377993
+  }
+}
+{
+  "price": "$244,900",
+  "address": "371 Mulberry Row SE #2601,\u00a0Atlanta, GA 30354",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "2,000 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sid Lightford",
+    "agent_phone": "(678) 644-3341"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2020",
+    "Heating": "No Data",
+    "Cooling": "No Data",
+    "Parking": "2 spaces",
+    "HOA": "$155/month",
+    "Lot": "0.33 acres",
+    "Price/sqft": "$122"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.666135,
+    "longitude": -84.384349
+  }
+}
+{
+  "price": "$226,755",
+  "address": "373 Mulberry Row SE #2602,\u00a0Atlanta, GA 30354",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "2,000 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sid Lightford",
+    "agent_phone": "(678) 644-3341"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2020",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$155/month",
+    "Lot": "0.33 acres",
+    "Price/sqft": "$113"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.666135,
+    "longitude": -84.384349
+  }
+}
+{
+  "price": "$1,050,000",
+  "address": "39 Honour Cir NW,\u00a0Atlanta, GA 30305",
+  "bedrooms": "4",
+  "bathrooms": "4",
+  "floor_area": "4,247 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Abbie Shepherd",
+    "agent_phone": "(404) 275-5561"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2007",
+    "Heating": "Other",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "10,585 sqft",
+    "Price/sqft": "$247"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.853099,
+    "longitude": -84.38564
+  }
+}
+{
+  "price": "$995,000",
+  "address": "750 Sherwood Rd NE,\u00a0Atlanta, GA 30324",
+  "bedrooms": "4",
+  "bathrooms": "3",
+  "floor_area": "2,555 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Charles Guthrie",
+    "agent_phone": "(770) 596-1671"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1945",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "8,106 sqft",
+    "Price/sqft": "$389"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.798315,
+    "longitude": -84.362551
+  }
+}
+{
+  "price": "$1,699,000",
+  "address": "415 Gartrell St SE,\u00a0Atlanta, GA 30312",
+  "bedrooms": "--",
+  "bathrooms": "--",
+  "floor_area": "1,245 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Renu Lal",
+    "agent_phone": "(404) 375-4872"
+  },
+  "facts_and_features": {
+    "Type": "Multi Family",
+    "Year built": "2018",
+    "Heating": "Electric",
+    "Cooling": "No Data",
+    "Parking": "6 spaces",
+    "Price/sqft": "$1,365"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.75264,
+    "longitude": -84.373992
+  }
+}
+{
+  "price": "$209,000",
+  "address": "814 Humphries St SW,\u00a0Atlanta, GA 30310",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "1,161 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Leia Harper",
+    "agent_phone": "(770) 846-6663"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1950",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "8,058 sqft",
+    "Price/sqft": "$180"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.732734,
+    "longitude": -84.405313
+  }
+}
+{
+  "price": "$235,000",
+  "address": "2746 Hedgewood Dr NW,\u00a0Atlanta, GA 30311",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,540 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Joshua B Pitre",
+    "agent_phone": "(404) 955-0227"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1940",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "0.69 acres",
+    "Price/sqft": "$153"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.7572,
+    "longitude": -84.477732
+  }
+}
+{
+  "price": "$389,900",
+  "address": "647 Glenwood Ave SE,\u00a0Atlanta, GA 30312",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "floor_area": "1,203 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "The Justin Landis Group",
+    "agent_phone": "Keller Williams Realty"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "Lot": "3,463 sqft",
+    "Price/sqft": "$324"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.742435,
+    "longitude": -84.366281
+  }
+}
+{
+  "price": "$509,000",
+  "address": "2766 Arbor Ave SE,\u00a0Atlanta, GA 30317",
+  "bedrooms": "4",
+  "bathrooms": "2",
+  "floor_area": "1,806 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jeffrey Johnson",
+    "agent_phone": "(678) 644-8764"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1939",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "8,712 sqft",
+    "Price/sqft": "$282"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.75049,
+    "longitude": -84.296288
+  }
+}
+{
+  "price": "$300,000",
+  "address": "1401 Beatie Ave SW,\u00a0Atlanta, GA 30310",
+  "bedrooms": "3",
+  "bathrooms": "3",
+  "floor_area": "1,613 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jennifer Butler",
+    "agent_phone": "(678) 920-8466"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2006",
+    "Heating": "Forced air",
+    "Cooling": "Other",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "None",
+    "Lot": "6,490 sqft",
+    "Price/sqft": "$186"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.716606,
+    "longitude": -84.411156
+  }
+}
+{
+  "price": "$178,500",
+  "address": "400 17th St NW UNIT 2106,\u00a0Atlanta, GA 30363",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "700 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "JOHN CHYN",
+    "agent_phone": "(770) 823-3388"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2005",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$285/month",
+    "Price/sqft": "$255"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.789503,
+    "longitude": -84.401766
+  }
+}
+{
+  "price": "$450,000",
+  "address": "839 Flat Shoals Ave SE #104,\u00a0Atlanta, GA 30316",
+  "bedrooms": "3",
+  "bathrooms": "6",
+  "floor_area": "1,824 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Allen Snow",
+    "agent_phone": "(404) 931-1176"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2020",
+    "Heating": "No Data",
+    "Cooling": "No Data",
+    "Parking": "2 spaces",
+    "HOA": "$150/month",
+    "Lot": "4,356 sqft",
+    "Price/sqft": "$247"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.731033,
+    "longitude": -84.33738
+  }
+}
+{
+  "price": "$159,900",
+  "address": "48 Peachtree Ave NE APT 217,\u00a0Atlanta, GA 30305",
+  "bedrooms": "1",
+  "bathrooms": "2",
+  "floor_area": "574 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Dianna Crawford",
+    "agent_phone": "(404) 667-1780"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1960",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$117/month",
+    "Lot": "435 sqft",
+    "Price/sqft": "$279"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.835204,
+    "longitude": -84.378147
+  }
+}
+{
+  "price": "$254,900",
+  "address": "87 Peachtree St SW APT 308,\u00a0Atlanta, GA 30303",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "floor_area": "1,398 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Gerry Barger",
+    "agent_phone": "(404) 386-1449"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1900",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "$498/month",
+    "Price/sqft": "$182"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.752373,
+    "longitude": -84.392225
+  }
+}
+{
+  "price": "$160,000",
+  "address": "2351 Palmetto Ave SW,\u00a0Atlanta, GA 30331",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,504 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Saundra Echols",
+    "agent_phone": "(404) 786-6205"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2006",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "None",
+    "Lot": "7,501 sqft",
+    "Price/sqft": "$106"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.690508,
+    "longitude": -84.525447
+  }
+}
+{
+  "price": "$349,000",
+  "address": "700 Park Regency Pl NE APT 2002,\u00a0Atlanta, GA 30326",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "1,143 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Juan Visbal",
+    "agent_phone": "(404) 491-8109"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2001",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$678/month",
+    "Price/sqft": "$305"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.854625,
+    "longitude": -84.364495
+  }
+}
+{
+  "price": "$525,000",
+  "address": "755 Elbert St SW,\u00a0Atlanta, GA 30310",
+  "bedrooms": "4",
+  "bathrooms": "6",
+  "floor_area": "2,150 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Lisa Bennett",
+    "agent_phone": "(678) 531-2996"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1925",
+    "Heating": "Forced air",
+    "Cooling": "Other",
+    "Parking": "6 spaces",
+    "HOA": "None",
+    "Lot": "7,797 sqft",
+    "Price/sqft": "$244"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.728641,
+    "longitude": -84.412424
+  }
+}
+{
+  "price": "$160,000",
+  "address": "2351 Palmetto St SW,\u00a0Atlanta, GA 30331",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,504 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Saundra Echols",
+    "agent_phone": "(404) 786-6205"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2004",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "No Data",
+    "Lot": "No Data",
+    "Price/sqft": "$106"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.690515,
+    "longitude": -84.525452
+  }
+}
+{
+  "price": "$495,000",
+  "address": "739 Pasley Ave SE,\u00a0Atlanta, GA 30316",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,512 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "DAWN PORRAS",
+    "agent_phone": "(404) 664-8965"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2001",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "8,712 sqft",
+    "Price/sqft": "$327"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.734143,
+    "longitude": -84.337821
+  }
+}
+{
+  "price": "$2,995,000",
+  "address": "555 Argonne Dr NW,\u00a0Atlanta, GA 30305",
+  "bedrooms": "5",
+  "bathrooms": "8",
+  "floor_area": "7,666 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Bonneau Ansley",
+    "agent_phone": "(404) 906-3161"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1913",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "2.07 acres",
+    "Price/sqft": "$391"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.835447,
+    "longitude": -84.404722
+  }
+}
+{
+  "price": "$420,000",
+  "address": "929 Prospect Ave SE,\u00a0Atlanta, GA 30316",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "floor_area": "968 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Bob Clarkson",
+    "agent_phone": "(404) 201-1292"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1950",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "9,844 sqft",
+    "Price/sqft": "$434"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.729164,
+    "longitude": -84.354902
+  }
+}
+{
+  "price": "$874,900",
+  "address": "260 3rd Ave SE,\u00a0Atlanta, GA 30317",
+  "bedrooms": "5",
+  "bathrooms": "4",
+  "floor_area": "3,666 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Reginald ONeill",
+    "agent_phone": "(404) 406-8776"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2007",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "8,712 sqft",
+    "Price/sqft": "$239"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.745997,
+    "longitude": -84.308141
+  }
+}
+{
+  "price": "$450,000",
+  "address": "757 Hill St SE,\u00a0Atlanta, GA 30315",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,224 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "PATTI HINKLE",
+    "agent_phone": "(404) 518-6086"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "On street",
+    "HOA": "None",
+    "Lot": "3,310 sqft",
+    "Price/sqft": "$368"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.733762,
+    "longitude": -84.378686
+  }
+}
+{
+  "price": "$525,000",
+  "address": "736 Elbert St SW,\u00a0Atlanta, GA 30310",
+  "bedrooms": "4",
+  "bathrooms": "6",
+  "floor_area": "2,005 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Lisa Bennett",
+    "agent_phone": "(678) 531-2996"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "None",
+    "Lot": "10,018 sqft",
+    "Price/sqft": "$262"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.728011,
+    "longitude": -84.411753
+  }
+}
+{
+  "price": "$729,900",
+  "address": "3630 Peachtree Rd NE UNIT 1906,\u00a0Atlanta, GA 30326",
+  "bedrooms": "1",
+  "bathrooms": "2",
+  "floor_area": "1,315 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Rick Brockman",
+    "agent_phone": "(404) 519-3192"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2010",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "$1,066/month",
+    "Price/sqft": "$555"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.854645,
+    "longitude": -84.358649
+  }
+}
+{
+  "price": "$725,000",
+  "address": "833 Charles Allen Dr NE,\u00a0Atlanta, GA 30308",
+  "bedrooms": "5",
+  "bathrooms": "4",
+  "floor_area": "3,239 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Anna K Intown Top KW Intown Team",
+    "agent_phone": "(678) 400-9151"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "None",
+    "Lot": "6,534 sqft",
+    "Price/sqft": "$224"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.777443,
+    "longitude": -84.372509
+  }
+}
+{
+  "price": "$214,900",
+  "address": "2765 Collier Dr NW,\u00a0Atlanta, GA 30318",
+  "bedrooms": "4",
+  "bathrooms": "3",
+  "floor_area": "1,464 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jar House",
+    "agent_phone": "(404) 800-0812"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1962",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "4 spaces",
+    "HOA": "None",
+    "Lot": "10,585 sqft",
+    "Price/sqft": "$147"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.764237,
+    "longitude": -84.477988
+  }
+}
+{
+  "price": "$504,000",
+  "address": "1223 Hardee St NE #25,\u00a0Atlanta, GA 30307",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "1,898 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Allen Snow",
+    "agent_phone": "(404) 931-1176"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2020",
+    "Heating": "Heat pump",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$175/month",
+    "Price/sqft": "$266"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.753964,
+    "longitude": -84.346654
+  }
+}
+{
+  "price": "$1,289,000",
+  "address": "1298 Paces Forest Dr NW,\u00a0Atlanta, GA 30327",
+  "bedrooms": "5",
+  "bathrooms": "6",
+  "floor_area": "4,685 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sam Bayne",
+    "agent_phone": "(404) 375-8628"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1960",
+    "Heating": "Forced air, Other",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "None",
+    "Lot": "0.68 acres",
+    "Price/sqft": "$275"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.847691,
+    "longitude": -84.425831
+  }
+}
+{
+  "price": "$439,000",
+  "address": "694 Fraser St SE,\u00a0Atlanta, GA 30315",
+  "bedrooms": "2",
+  "bathrooms": "3",
+  "floor_area": "-- sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Chace Spears",
+    "agent_phone": "(205) 616-6274"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2020",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$185/month",
+    "Lot": "3,402 sqft",
+    "Price/sqft": "No Data"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.735764,
+    "longitude": -84.386116
+  }
+}
+{
+  "price": "$950,000",
+  "address": "2701 Peyton Springs Cir SW,\u00a0Atlanta, GA 30311",
+  "bedrooms": "7",
+  "bathrooms": "9",
+  "floor_area": "6,078 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Brandi Hunter-Lewis",
+    "agent_phone": "(404) 840-0001"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2005",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "6 spaces",
+    "HOA": "None",
+    "Lot": "0.52 acres",
+    "Price/sqft": "$156"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.741545,
+    "longitude": -84.476848
+  }
+}
+{
+  "price": "$350,000",
+  "address": "365 Sawtell Ave SE,\u00a0Atlanta, GA 30315",
+  "bedrooms": "4",
+  "bathrooms": "3",
+  "floor_area": "2,200 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Merri Nance",
+    "agent_phone": "(404) 391-8239"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "8,712 sqft",
+    "Price/sqft": "$159"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.706266,
+    "longitude": -84.3765
+  }
+}
+{
+  "price": "$429,000",
+  "address": "222 12th St NE UNIT 2105,\u00a0Atlanta, GA 30309",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "1,020 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Tom Ellicott",
+    "agent_phone": "(404) 800-3469"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2008",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$480/month",
+    "Price/sqft": "$421"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.784614,
+    "longitude": -84.379816
+  }
+}
+{
+  "price": "$255,000",
+  "address": "620 Glen Iris Dr NE UNIT 418,\u00a0Atlanta, GA 30308",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "722 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jamie Gaines",
+    "agent_phone": "(404) 822-2150"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2005",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$196/month",
+    "Price/sqft": "$353"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.771406,
+    "longitude": -84.36787
+  }
+}
+{
+  "price": "$499,000",
+  "address": "850 Ralph Mcgill Blvd NE APT 30,\u00a0Atlanta, GA 30306",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "floor_area": "1,440 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sara Lee Parker",
+    "agent_phone": "Keller Williams Realty"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2000",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "4 spaces",
+    "HOA": "$482/month",
+    "Price/sqft": "$347"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.768322,
+    "longitude": -84.359647
+  }
+}
+{
+  "price": "$105,000",
+  "address": "156 Rhodesia Ave SE,\u00a0Atlanta, GA 30315",
+  "bedrooms": "3",
+  "bathrooms": "1",
+  "floor_area": "1,172 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jason Harris",
+    "agent_phone": "(678) 355-0001"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1935",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "9,583 sqft",
+    "Price/sqft": "$90"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.707654,
+    "longitude": -84.383188
+  }
+}
+{
+  "price": "$429,000",
+  "address": "2336 Barrington Trace Cir SW,\u00a0Atlanta, GA 30331",
+  "bedrooms": "5",
+  "bathrooms": "5",
+  "floor_area": "4,557 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "SHARIF K NEMLEY",
+    "agent_phone": "(404) 398-5089"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2018",
+    "Heating": "Electric",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$62/month",
+    "Lot": "0.42 acres",
+    "Price/sqft": "$94"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.686741,
+    "longitude": -84.549313
+  }
+}
+{
+  "price": "$374,000",
+  "address": "640 Grady Pl SW,\u00a0Atlanta, GA 30310",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,892 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Emily Scheer",
+    "agent_phone": "(404) 374-5278"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1905",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "On street",
+    "HOA": "None",
+    "Lot": "6,185 sqft",
+    "Price/sqft": "$198"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.737614,
+    "longitude": -84.426292
+  }
+}
+{
+  "price": "$352,000",
+  "address": "401 16th St NW UNIT 1483,\u00a0Atlanta, GA 30363",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,450 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jana Herridge",
+    "agent_phone": "(770) 240-2005"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2004",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "$504/month",
+    "Price/sqft": "$243"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.789235,
+    "longitude": -84.402084
+  }
+}
+{
+  "price": "$229,000",
+  "address": "1421 Westmont Rd SW,\u00a0Atlanta, GA 30311",
+  "bedrooms": "3",
+  "bathrooms": "2",
+  "floor_area": "1,365 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Penny Andrews",
+    "agent_phone": "(314) 819-9753"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1950",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "7,448 sqft",
+    "Price/sqft": "$168"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.716454,
+    "longitude": -84.437998
+  }
+}
+{
+  "price": "$285,000",
+  "address": "104 Kiram Ter SW,\u00a0Atlanta, GA 30331",
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "floor_area": "2,070 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Tamona McIntyre",
+    "agent_phone": "(678) 973-8293"
+  },
+  "facts_and_features": {
+    "Type": "Townhouse",
+    "Year built": "2015",
+    "Heating": "Heat pump",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$150/month",
+    "Lot": "871 sqft",
+    "Price/sqft": "$138"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.666321,
+    "longitude": -84.548992
+  }
+}
+{
+  "price": "$229,000",
+  "address": "87 Peachtree St SW APT 702,\u00a0Atlanta, GA 30303",
+  "bedrooms": "1",
+  "bathrooms": "2",
+  "floor_area": "1,128 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Cole Gardiner",
+    "agent_phone": "(404) 388-9518"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1900",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$406/month",
+    "Price/sqft": "$203"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.754481,
+    "longitude": -84.390551
+  }
+}
+{
+  "price": "$144,900",
+  "address": "2657 Lenox Rd NE #C30,\u00a0Atlanta, GA 30324",
+  "bedrooms": "1",
+  "bathrooms": "1",
+  "floor_area": "-- sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Sanders Team",
+    "agent_phone": "(678) 737-4310"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1994",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "No Data",
+    "HOA": "$17/month",
+    "Price/sqft": "No Data"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.827313,
+    "longitude": -84.353376
+  }
+}
+{
+  "price": "$584,900",
+  "address": "664 Boulevard Se,\u00a0Atlanta, GA 30312",
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "floor_area": "1,594 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Beth Scott",
+    "agent_phone": "(404) 456-9590"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "1920",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "None",
+    "Lot": "8,498 sqft",
+    "Price/sqft": "$367"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.736402,
+    "longitude": -84.36784
+  }
+}
+{
+  "price": "$2,250,000",
+  "address": "1142 E Club Ln NE,\u00a0Atlanta, GA 30319",
+  "bedrooms": "5",
+  "bathrooms": "6",
+  "floor_area": "7,203 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Kim and Kathryn Boyd Team",
+    "agent_phone": "(404) 520-6095"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2005",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "3 spaces",
+    "HOA": "None",
+    "Lot": "0.66 acres",
+    "Price/sqft": "$312"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.871101,
+    "longitude": -84.353248
+  }
+}
+{
+  "price": "$499,000",
+  "address": "700 Park Regency Pl NE APT 1106,\u00a0Atlanta, GA 30326",
+  "bedrooms": "2",
+  "bathrooms": "6",
+  "floor_area": "1,667 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Jolynne Szymanski",
+    "agent_phone": "(404) 271-7167"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2001",
+    "Heating": "Heat pump",
+    "Cooling": "Central",
+    "Parking": "Off street, Detached Garage",
+    "HOA": "$989/month",
+    "Price/sqft": "$299"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.854625,
+    "longitude": -84.364495
+  }
+}
+{
+  "price": "$160,000",
+  "address": "3206 Mathieson Dr NE APT 6,\u00a0Atlanta, GA 30305",
+  "bedrooms": "2",
+  "bathrooms": "1",
+  "floor_area": "637 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Atlanta Turtle Group / Chuck Smith",
+    "agent_phone": "(404) 551-2607"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1965",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "1 space",
+    "HOA": "$185/month",
+    "Price/sqft": "$251"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.842595,
+    "longitude": -84.377485
+  }
+}
+{
+  "price": "$999,000",
+  "address": "222 12th St NE UNIT 1906,\u00a0Atlanta, GA 30309",
+  "bedrooms": "2",
+  "bathrooms": "3",
+  "floor_area": "1,820 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Tom Ellicott",
+    "agent_phone": "(404) 800-3469"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "2008",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "$861/month",
+    "Price/sqft": "$549"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.784614,
+    "longitude": -84.379816
+  }
+}
+{
+  "price": "$560,000",
+  "address": "147 15th St NE UNIT 9B,\u00a0Atlanta, GA 30309",
+  "bedrooms": "2",
+  "bathrooms": "4",
+  "floor_area": "1,869 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "David Hollingshead",
+    "agent_phone": "(212) 851-6393"
+  },
+  "facts_and_features": {
+    "Type": "Condo",
+    "Year built": "1972",
+    "Heating": "No Data",
+    "Cooling": "No Data",
+    "Parking": "No Data",
+    "HOA": "$1,143/month",
+    "Price/sqft": "$300"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.787628,
+    "longitude": -84.381753
+  }
+}
+{
+  "price": "$1,275,000",
+  "address": "281 E Wesley Rd NE,\u00a0Atlanta, GA 30305",
+  "bedrooms": "4",
+  "bathrooms": "5",
+  "floor_area": "3,546 sqft",
+  "zestimate": "",
+  "description": null,
+  "agent_info": {
+    "agent_name": "Ginny Swinehart",
+    "agent_phone": "(404) 495-8377"
+  },
+  "facts_and_features": {
+    "Type": "Single Family",
+    "Year built": "2018",
+    "Heating": "Forced air",
+    "Cooling": "Central",
+    "Parking": "2 spaces",
+    "HOA": "None",
+    "Lot": "7,361 sqft",
+    "Price/sqft": "$360"
+  },
+  "price_history": [],
+  "monthly_cost": {},
+  "nearby_schools": [],
+  "coordinates": {
+    "latitude": 33.828418,
+    "longitude": -84.378285
+  }
+}
